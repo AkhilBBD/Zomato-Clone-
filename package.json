@@ -1,0 +1,20 @@
+{
+  "name": "zomato-clone-website",
+  "version": "1.0.0",
+  "description": "This is Zomato clone website by Akhil",
+  "main": "CardUtilities.js",
+  "scripts": {
+    "start": "nodemon CardUtilities.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkhilBBD/Zomato-Clone-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkhilBBD/Zomato-Clone-/issues"
+  },
+  "homepage": "https://github.com/AkhilBBD/Zomato-Clone-#readme"
+}
